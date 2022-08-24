@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Athena65
+- 👋 Hi, I'm Burak Tamince
 - 👀 I’m interested in coding in different type of languages like java, I play games when i feel bored ...
 - 🌱 I’m currently learning Python,İ learnt basics of C and i know java ide.
 - 💞️ I’m looking to collaborate on coding societys.
