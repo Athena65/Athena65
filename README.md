@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Burak Tamince
-- 👀 I’m interested in coding in different type of languages like java, I play games when i feel bored ...
+- 👀 I’m interested in coding in different type of languages like C#, I play games when i feel bored ...
 - 🌱 I’m currently learning C#,İ learnt basics of C and i know java,and Pyhton.
 - 💞️ I’m looking to collaborate on coding societys.
 - 📫 How to reach me: my insta is @tmncburak u can type whenever u want.
