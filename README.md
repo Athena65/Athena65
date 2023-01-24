@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#,İ learnt basics of C and i know java,and Pyhton.
 - 💞️ I’m looking to collaborate on coding societys.
 - 📫 How to reach me: my insta is @tmncburak u can type whenever u want.
+- 🎈 My Linkedin Profile is:https://www.linkedin.com/in/burak-tamince-2a5a40225/
 
 <!---
 Athena65/Athena65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
