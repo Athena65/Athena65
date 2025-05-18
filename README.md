@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Burak Tamince. This is my website :https://buraktamince.net.tr/
+- 👋 Hi, I'm Burak Tamince. This is my website: https://buraktamince.net.tr/
 - 👀 I’m interested in coding in different type of languages like C#, I play games when i feel bored ...
 - 🌱 I’m currently learning C#,I learnt basics of C and i know java and Pyhton.
 - 💞️ I’m looking to collaborate on coding societys.
